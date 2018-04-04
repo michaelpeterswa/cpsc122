@@ -163,7 +163,7 @@ int NumberList::search(double num){
 void NumberList::deleteNode(double pos){
   ListNode *a = new ListNode;
   ListNode *b = new ListNode;
-  
+
   a = head;
 // While nodePtr points to a node, traverse the list.
   for(int i = 0; i < pos; i++){
