@@ -9,5 +9,5 @@ void DynIntStack::div(){
   total = b/a;
 
   push(total);
-  
+
 }
