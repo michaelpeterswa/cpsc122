@@ -1,0 +1,2 @@
+a.) Binary search is O(log n) and Merge sort is O(n log n). Therefore binary search is faster
+b.) Binary search O(log n) is faster than displaying the array O(n) (for larger arrays)
